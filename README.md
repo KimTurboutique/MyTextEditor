@@ -5,7 +5,6 @@
 ## Deployed Application
 
 * [JATE](https://text-editor-jate10-a1f104961cfe.herokuapp.com/)
-* 
 
 ### Tools/Technologies used:
 
