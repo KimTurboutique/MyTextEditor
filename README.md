@@ -22,7 +22,7 @@
 
 ### These are the installation steps to use app offline:
 
-```1. Click the install button in the left corner.```
+```1. Click the install button in the top left corner.```
 <img width="1391" alt="Screenshot 2023-08-25 at 10 12 25 PM" src="https://github.com/KimTurboutique/MyTextEditor/assets/127644189/11da469d-855e-42af-a6be-d65c6d1e7905">
 
 ```2. When prompted click install once more.```
