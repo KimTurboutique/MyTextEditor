@@ -22,8 +22,8 @@
 
 ### These are the installation steps to use app offline:
 
-```1. Click the install button in the left corner.```
-![Homepage](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/yn/dnj3jqbx42g6_p0dsbk8k6800000gp/T/TemporaryItems/NSIRD_screencaptureui_dpqGyL/Screenshot%25202023-08-25%2520at%252010.12.25%2520PM.png?version%253D1693015955655)
+```1. Click the install button in the top left corner.```
+<img width="1391" alt="Screenshot 2023-08-25 at 10 12 25 PM" src="https://github.com/KimTurboutique/MyTextEditor/assets/127644189/11da469d-855e-42af-a6be-d65c6d1e7905">
 
 ```2. When prompted click install once more.```
 ```3. App will automatically download in your apps folder and create a shortcut on your PC for easy access.```
@@ -33,7 +33,7 @@
 ### To remove app complete the following steps:
 
 ```1. Click the (3) dots in the top right hand corner of app.```
-![Uninstall](https://file%252B.vscode-resource.vscode-cdn.net/Users/Kim/Desktop/Boot%2520Camp/Week19/MyTextEditor/client/src/images/Screenshot%25202023-08-25%2520at%252010.19.44%2520PM.png?version%253D1693016509920)
+<img width="1196" alt="Screenshot 2023-08-25 at 10 19 44 PM" src="https://github.com/KimTurboutique/MyTextEditor/assets/127644189/1c93bc8d-e091-44b1-945b-73d175dd9e89">
 
 ```2. Ensure to check the box to clear data.```
 ```3. Click remove button and app will be closed and unistalled immediately.```
